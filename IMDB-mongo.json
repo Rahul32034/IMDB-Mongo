@@ -1,0 +1,142 @@
+[
+    {
+        "title" :"Kabir singh",
+        "language": ["Hindi","English"],
+        "Genera": ["Drama","Romance"],
+        "Rating":7.1,
+        "year":2019,
+        "review": "okk",
+        "cast" : [
+            {
+                "actor" :"Shahid Kapoor",
+                "Role" : "Kabir"
+            },
+            {
+                "actor" :"Kiara Advani",
+                "Role" : "Preeti Sikka"
+            },
+            {
+                "actor" :"Soham Majumdar",
+                "Role" : "Shiva"
+            }
+        ]
+    },
+
+    {
+        "title" :"Bhart",
+        "language": ["Hindi","English"],
+        "Genera": ["Drama","Action","Comedy"],
+        "Rating":4.9,
+        "year":2019,
+        "review": "Bad",
+        "cast" : [
+            {
+                "actor" :"Salman Khan",
+                "Role" : "Bharat"
+            },
+            {
+                "actor" :"Katrina Kaif",
+                "Role" : "Kumud Raina"
+            },
+            {
+                "actor" :"Sunil Grover",
+                "Role" : "Vilayti Khan"
+            }
+        ]
+    },
+
+    {
+        "title" :"War",
+        "language": ["Hindi","English"],
+        "Genera": ["Thriller","Action"],
+        "Rating":6.5,
+        "year":2019,
+        "review": "Good",
+        "cast" : [
+            {
+                "actor" :"Hritik Roshan",
+                "Role" : "Major Kabir"
+            },
+            {
+                "actor" :"Tiger Shroff",
+                "Role" : "Captain Khalid Rahmani"
+            },
+            {
+                "actor" :"Vaani Kapoor",
+                "Role" : "Naina Verma"
+            }
+        ]
+    },
+
+    {
+        "title" :"Batla House",
+        "language": ["Hindi","English"],
+        "Genera": ["Drama","Action","Crime"],
+        "Rating":7.2,
+        "year":2019,
+        "review": "Excelent",
+        "cast" : [
+            {
+                "actor" :"Shahid Kapoor",
+                "Role" : "ACP Sanjay Kumar"
+            },
+            {
+                "actor" :"Mrunal Thakur",
+                "Role" : "Nandita Kumar"
+            }
+        ]
+    },
+
+    {
+        "title" :"Bazaar",
+        "language": ["Hindi","English"],
+        "Genera": ["Drama","Crime","Thriller"],
+        "Rating":6.6,
+        "year":2018,
+        "review": "Awesome",
+        "cast" : [
+            {
+                "actor" :"Safali Khan",
+                "Role" : "Sakun kothari"
+            },
+            {
+                "actor" :"Radhika Apte",
+                "Role" : "Priya Rai"
+            },
+            {
+                "actor" :"Chitrangda Singh",
+                "Role" : "Mandira Kothari"
+            }
+        ]
+    },
+
+    {
+        "title" :"Dhoom 3",
+        "language": ["Hindi","English"],
+        "Genera": ["Drama","Crime","Thriller"],
+        "Rating":5.4,
+        "year":2013,
+        "review": "Very good",
+        "cast" : [
+            {
+                "actor" :"Amir Khan",
+                "Role" : "Samar Khan"
+            },
+            {
+                "actor" :"Amir Khan",
+                "Role" : "Sahir Khan"
+            },
+            {
+                "actor" :"Katrina Kaif",
+                "Role" : "Aaliya"
+            },
+            {
+                "actor" :"Abhishek Bachchan",
+                "Role" : "ACP Jai Dixit"
+            }
+        ]
+    }
+    
+]
+
+
